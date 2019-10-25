@@ -6,6 +6,7 @@
 ### Description
 *Python program used to explore data related to bike share systems for three major cities in the united states Chicago , New York City and Washington.*  
 *It imports the data and answer interesting questions about it by computing descriptive statistics.*      
+*It takes in raw input to create an interactive experience in the terminal to present these statistics.* 
 ### Files used  
 **bikeshare.py (Python codes file)  
 chicago.csv (raw data file)  
